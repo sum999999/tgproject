@@ -1,0 +1,10 @@
+import Logger from '@/utils/logger';
+const configText = window.configText || {};
+const siteName = configText.main || "本彩票平台";
+const padding = '   ';
+Logger.prefixed.group("彩票平台", `欢迎来到${siteName}!`);
+Logger.unprefixed.log(`你当前看到的是${process.env.NODE_ENV}环境构建. 当前构建版本：${process.env.VERSION} 融云SDK版本：5.3.x.`);
+Logger.unprefixed.log(`📖 想了解我们的众多产品？\n${padding}🌍http://www.example.com/`);
+Logger.unprefixed.log(`❓ 想加入我们的开发团队嘛？等待你的加入！\n${padding}🛫xxxx xxxx xxxx`);
+Logger.unprefixed.log(`🐛 发现了bug? 通过站点联系方式找到我们\n${padding}🌍http://www.example.com/  🛫+xxxx xxxx xxxx  📞+xxxx xxxx xxxx`);
+Logger.prefixed.groupEnd();

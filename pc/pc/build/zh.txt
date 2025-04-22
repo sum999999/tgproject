@@ -1,0 +1,1443 @@
+Spiacente, la pagina non esiste
+URL errato o link scaduto.
+Casa
+Scusa
+Caro
+Tempo
+Modo
+Contenuto
+Servizi
+Tutti
+Raccolta riuscita
+Invia
+Telefoni cellulari
+Successo
+Fallimento
+Clicca per verificare
+Ripristina la password: {num}
+Fallimento
+Convalida delle informazioni
+Riproduzione
+Nome e cognome
+non può essere inferiore a {num}
+Copiato
+Lotterie
+Suggerimenti
+Si prega di completare la verifica
+Login richiesto. Login?
+Suggerimenti
+Successo
+Numero di conto
+Portafogli
+Disconnettersi
+Accesso
+Servizi
+Record
+Iscrizione
+Agenti
+Ricarica
+Ritiro di fondi
+Suggerimenti
+Periodo di sospensione
+{num} periodo
+{num} Periodo numeri della lotteria
+{num} nome
+Scommesse a sinistra
+Il browser non supporta l'elemento audio.
+Sorteggio dei premi in corso
+Storia
+Aprire
+Chiudere
+Impostazioni
+Default (campana della sveglia)
+II (campana di classe)
+Tre (suono del gong)
+IV (Batteria)
+V (suono di gocciolamento)
+Esempio di modello
+Descrizione
+Veloce
+Come giocare
+Probabilità massime
+Le probabilità di colpire due sono {max}, le probabilità di colpire uno speciale sono {max}
+Numero di emissione
+Aggiorna
+Più
+No.
+Nota
+{num}Nota
+{unit}{money}
+{money}{unit}
+Yuan
+Angolo
+Punteggio
+{d}giorno
+Quando {h}
+Quando {m}
+Quando {s}
+Vincente, fino a {num}{unità}
+Nessuna scheda scommesse
+Cancellare tutto
+Scommesse
+Importo
+Sconti
+Quote
+Importo
+Cancellare
+Non iniziato
+Scommetti prima
+L'importo non può essere maggiore di {money}
+Zodiaco cinese
+No.
+Aggiungi
+Nessuna scommessa o non abbastanza scommesse
+Singolo e doppio
+Dimensione
+Dimensione e
+Misura singola e doppia
+Onda di colore
+Minimo
+Grande
+Codice speciale
+Totale e
+Wagyu
+Dimensione della coda
+Colore dell'onda
+Numero speciale
+e l'ufficio
+Sollevamento e abbassamento
+Litri
+Ping
+scendere
+Duplex/Statistiche
+Statistiche del Drago Lungo
+Analisi dei numeri
+Distribuzione dei campioni
+Distribuzione del secondo posto
+Distribuzione del terzo posto
+Caratteristiche morfologiche
+Tendenze del campionato
+Tendenza al secondo posto
+Tendenza al terzo posto
+Campione
+Runner-up
+Terzo classificato
+Quarto posto
+Quinto posto
+Sesto posto
+Settimo posto
+Ottavo posto
+Nono posto
+Decimo posto
+10.000 tendenza della posizione
+Tendenza dei mille livelli
+Cento posizioni di tendenza
+Tendenza a dieci posizioni
+Tendenza della posizione individuale
+Tigre del Drago della Corona
+Corona e
+Corona e Singoli
+Corona e dimensioni
+1-5 Drago e Tigre
+Campione Tigre del Drago
+Secondo classificato Dragon Tiger
+Terzo posto Drago e Tigre
+Quarto posto Drago e Tigre
+Quinto posto Drago e Tigre
+Taglia unica di drago e tigre
+No. 0
+No. 1
+No. 2
+No. 3
+No. 4
+No. 5
+No. 6
+No. 7
+No. 8
+No. 9
+No. 10
+No. 11
+No. 12
+No. 13
+No. 14
+No. 15
+No. 16
+No. 17
+No. 18
+No. 19
+No. 20
+1a palla
+2a palla
+3a palla
+4a palla
+5a palla
+Prima palla
+Seconda palla
+Terza palla
+Quarta palla
+Quinta palla
+Sesta palla
+Settima palla
+Ottava palla
+1-5 dimensioni della palla
+1-5 palle singole e doppie
+012 Strada
+I primi tre
+Secondario 3
+Gli ultimi tre
+Strano
+anche
+qualità
+Luppolo
+Grande
+Piccolo
+Singolo
+Doppio
+Numero di coppia
+Riduzione
+Onda rossa
+Onda verde
+Onda blu
+Onda grigia
+Positivo Uno
+Positivo due
+Masamune
+Positivo 4
+Cinque
+Positivo 6
+Spuntare la casella
+Irregolarità nelle scommesse
+Numero di coda
+Dimensione della coda
+Singoli e doppi combinati
+Codice speciale A
+Codice speciale B
+Azzerare
+Un codice
+Piccoli ordini
+Ordini consolidati
+Combinato singolo e doppio
+Codice doppio
+Xiaoshuang
+Canto del luppolo
+Taglia più
+Grandi ordini
+Università Hopewell
+Piccole dimensioni
+Grande doppio
+Canto del luppolo
+Somma Valore
+Coda grande
+Coda piccola
+Coda grande e coda piccola
+Doppio combinato
+Singoli combinati
+0 teste
+1 testa
+2 teste
+3 teste
+4 teste
+0 code
+1 coda
+2 code
+3 code
+4 code
+5 code
+6 code
+7 code
+8 code
+9 code
+Pesce
+Gambero
+Zucca
+Soldi
+Granchio
+Coppie
+Leopardo
+Semi-Shun
+Junko
+Varie 6
+Primo posto Drago e Tigre
+Secondo posto Drago e Tigre
+Terzo posto Drago e Tigre
+Drago e Tigre
+Mouse
+Bestiame
+Tiger
+Coniglio
+Drago
+Serpente
+Ma
+Pecora
+Scimmia
+Pollo
+Cani
+Maiali
+e
+Rosso
+Lista rossa
+Gemello rosso
+Rosso Da
+Red Jr.
+Foglio blu
+Doppio blu
+L'Università Blu
+Piccolo blu
+Foglio verde
+Gemello verde
+Università verde
+Piccolo verde
+Mucca
+Bestiame I
+Bue II
+Niu San
+Mucca 4
+Bue Cinque
+Bue 6
+Mucca 7
+Mucca 8
+Ox9
+Nessun bestiame
+Seleziona tutto
+contro elezione
+Svuotamento
+Cancellazione
+Conferma
+Totale{num}Nota
+Importo totale scommesso {money}
+Conferma la tua scommessa
+Numeri delle scommesse
+Opzioni
+Importo di denaro scommesso
+Unità
+Aggiungere una singola scommessa
+Aggiungere un modulo di nota
+Preset
+Preset
+Cancellare
+Violazione del codice delle scommesse {num}
+Numero insufficiente di iniezioni
+L'importo non può essere inferiore a {money}
+Posizione
+Note.
+I numeri sono separati da virgole (i numeri vengono automaticamente ordinati e i numeri errati vengono rimossi).
+Dettagli
+Numero di tracciamento
+Monitoraggio avanzato
+Smettere di tracciare dopo aver vinto un premio
+Moltiplicatore
+Periodo
+Le stesse volte il numero di inseguimento
+Numero di periodi di monitoraggio
+Moltiplicatore di partenza
+volte
+Rilevatore di raddoppio
+a intervalli di
+Ex
+Moltiplicatore
+Numero di serie
+Durante il tracciamento
+Previsto
+Il numero di emissione è cambiato e il numero di emissione sarà cancellato!
+Monitoraggio di
+Dettagli
+Totale
+Importo totale
+Uno a caso
+V casuale
+Suggerimenti
+Il numero di periodi è cambiato, riseleziona il tracking!
+Monitoraggio di
+Casa
+Ricevere un premio
+Annuncio
+Hai {num} possibilità di vincere
+Sondaggio
+Siamo impegnati a rendere l'esperienza dell'utente la migliore possibile e non vediamo l'ora di ricevere i vostri suggerimenti!
+Titolo
+Titolo
+Titolo in 25 parole o meno
+Tipo
+Contenuto
+Carica
+Contenuto in 100 parole o meno
+Insetti del prodotto
+Trolling
+Raccomandazioni
+Altro
+Non può essere vuoto
+Altro
+Se qualcosa non funziona bene, per favore parlatene! Terremo d'occhio il tuo feedback e continueremo a ottimizzare il prodotto per offrirti un servizio migliore!
+Carica fino a {num} immagini
+Immagine max {num}M
+Screenshot per aiutarvi a dare un feedback alle vostre domande
+Requisiti dell'attività
+Tutte le attività di sviluppo dei membri, ricarica minima di 6{unità} per partecipare all'evento, i premi dell'evento 2 iPhonex ！！！！
+Lista
+Congratulazioni a {utente} per aver ottenuto {nome}
+Regole
+Tutti i diritti riservati
+Conferma
+Ricevere un premio
+Persona di contatto
+Telefono
+La tua chiamata
+Indirizzo
+Confermate che le informazioni sono corrette e inviatele, se non sono corrette contattate il servizio.
+Determinazione
+Nessuna informazione
+Presentato con successo!
+Sotto esame!
+Sono spiacente
+Regole
+Premi
+Contenuto
+Tempo
+Stato
+Indirizzo
+Ritiro di fondi
+Prendi un pacchetto rosso, cara!
+Numero di cellulare
+Formato sbagliato
+Nome
+Inserisci i caratteri nella posizione {min}-{max}
+ID
+Formato sbagliato
+Mailbox
+Formato sbagliato
+QQ
+Formato sbagliato
+WeChat
+{min}-{max} caratteri, lettere, numeri, underscore e -
+Titolo
+Contenuto
+Persona di contatto
+Si prega di inserire il numero di cifre {num}
+Compilato in modo errato
+Conto alla rovescia
+Rilegatura
+Dettagli dell'indirizzo
+Numero insufficiente di volte
+Congratulazioni al vincitore del {nome}
+Non disegnato!
+Successo
+Le immagini non dovrebbero superare {num}M
+Esiste già, cancellalo prima di caricarlo!
+Inviato con successo
+Carica le foto!
+Ritirato
+Non supportato dai browser.
+Sorteggio dei premi
+Password
+Centro assistenza
+Registrazione
+Registrazione in corso
+Comprare una lotteria
+Come giocare
+Ricarica
+Domande frequenti
+Sicurezza dell'account
+Contattateci
+Raccomandazioni sui browser
+Organismi di regolamentazione
+Vincere un premio
+Guida per principianti
+1. C'è una tassa per registrarsi sul sito web della lotteria?
+La registrazione come nuovo utente è gratuita e non ci sono costi.
+I nuovi membri che scaricano l'applicazione e si registrano con i loro veri nomi e legano le loro carte bancarie di prelievo possono ricevere 10{unit} in contanti e ritirare i loro profitti fino a 18{unit}, in modo da poter guadagnare senza ricaricare.
+2. Come faccio a ricaricare il mio conto?
+99Lottery offre una varietà di comodi metodi di ricarica tra cui scegliere, tra cui: pagamento con codice WeChat, pagamento con trasferimento WeChat, pagamento con codice Alipay, pagamento con trasferimento Alipay, pagamento con codice QQ wallet, bonifico bancario netto/mobile banking e pagamento online di terze parti.
+3. È legale comprare scommesse su {nome}?
+Il {name}(sito ufficiale) è la più grande piattaforma asiatica di scommesse sulla lotteria, con il più forte supporto finanziario e tecnico, e la prima scelta di milioni di giocatori della lotteria per acquistare la lotteria online in buona fede. Con 70 milioni di dollari di capitale della fase 1, {name} e 99 Group hanno unito le forze per creare il miglior marchio di scommesse sulla lotteria online, aderendo alla filosofia di creare il servizio più onesto, stabile e orientato al servizio nel mondo della lotteria. Nell'agosto 2013, {name} è stata legalmente registrata come società di gioco nelle Isole Vergini Britanniche e possiede una licenza di gioco online rilasciata dalla Cagayan Special Economic Zone del governo filippino. L'azienda aggiorna costantemente le sue offerte di lotteria per fornire ai clienti una gamma più ampia di esperienze di scommesse. L'azienda non ha risparmiato sforzi anche nei settori della sicurezza di internet, della protezione della privacy, dei dati dei clienti e della sicurezza dei registri delle transazioni, e ha ottenuto una certificazione internazionale per garantire l'imparzialità del sito web e per risolvere completamente le preoccupazioni della sicurezza di internet!
+Come operatore di lotteria professionale, ci impegniamo a fornire l'intrattenimento più sicuro, più equo e più completo per ogni cliente. {name}Il vantaggio comune di tutte le varietà di lotteria online: Fornire il download di APP mobile, combinato con terminale PC e terminale WAP, rompere i confini di spazio e tempo, 24 ore al giorno per sperimentare il divertimento di acquistare lotteria, ultra-alta velocità dedicata canale sincronizzazione in tempo reale dei dati della lotteria ufficiale, 100% garanzia risultati della lotteria equo, giusto e aperto! {La lotteria è disponibile per tutte le varietà di scommesse online, incluso ma non limitato a: Beijing Racing PK Pickup, Lucky Flight, Chongqing Timeslottery, Hong Kong Mark Six, PC Egg, Lucky Horse Racing, Lucky Poker, Anhui Express, Beijing Happy 8, Alphabet 3, Alphabet 5, Fuchai 3D, Guangdong 11 Elections 5, Shandong 11 Elections 5, Jiangxi 11 Elections 5, Heilongjiang 11 Elections 5, Xinjiang Timeslottery, Beijing Timeslottery, Tianjin Timeslottery! Tianjin SzeChi!
+{Il nostro sistema di scommesse utilizza una tecnologia di crittografia dei dati ad alto standard di sicurezza a 128 bit, che assicura che le informazioni dei membri e i dati delle scommesse non siano intercettati durante la trasmissione in rete, in modo che la privacy dei membri possa essere mantenuta strettamente confidenziale. Prendiamo rigorose misure di riservatezza e di prevenzione delle frodi per ogni transazione per garantire l'autenticità dei conti dei membri e la sicurezza dei membri nel processo di rabbocco e ritiro dei fondi, con un team tecnico professionale che controlla e aggiorna il sistema 24/7 per fornire ai membri l'esperienza di trading più sicura e conveniente con un sistema di alta sicurezza!
+{name} è dedicato a fornire a tutti i membri i servizi di scommesse sulla lotteria più professionali e di alto livello: 1, 365 giorni x 24 ore di servizio clienti professionale, 24 ore al giorno per trattare con i membri dentro e fuori le questioni relative al denaro, servizio clienti e team finanziario rigorosamente addestrati, in modo che ogni giocatore abbia la sensazione di essere a casa! 2. Interazione multicanale con i clienti per capire le loro esigenze e tenere d'occhio i loro commenti e suggerimenti; 3. Tenere più promozioni e offerte per fornire ai clienti più sconti sul jackpot e sorprese bonus.
+4. Registrarsi con una carta bancaria dopo la registrazione del nome reale?
+Per non pregiudicare le tue ricariche, scommesse e prelievi, dopo la registrazione devi legare la tua carta bancaria nel Centro utenti, presentare il tuo vero nome e impostare la tua password di prelievo.
+5. Come posso correggere un errore nel mio nome reale?
+Una volta legato, l'utente non può cambiare il suo vero nome direttamente di persona, ma può contattare il servizio clienti per farlo.
+Il processo di funzionamento è il seguente
+Contatta il servizio clienti (per telefono, QQ, e-mail, ecc.) per spiegare il motivo del cambiamento.
+(a) Al ricevimento dell'autorizzazione da parte del Servizio Clienti, il Commissario verifica le informazioni e sottopone il rapporto al leader per l'approvazione e la firma.
+Dopo la firma del capo competente, lo specialista tecnico corregge il messaggio di errore dell'utente sotto sorveglianza.
+6. Come posso cambiare la mia password di accesso?
+La procedura per cambiare la password di accesso è la seguente
+Una volta effettuato l'accesso, vai alla home page e clicca su "Centro utenti" sul lato destro.
+Seleziona "Cambia password" da "Informazioni sull'account" sul lato sinistro della pagina "Centro utenti".
+L'utente inserisce la vecchia password e ne imposta una nuova.
+Invia le tue informazioni, cambia la tua password con successo e il sistema ti chiederà un messaggio di successo.
+7. Cosa devo tenere a mente per garantire la sicurezza dei miei fondi?
+Gli utenti della lotteria devono essere consapevoli della presenza di programmi Trojan horse come keylogger o controllo remoto sui loro computer, utilizzare programmi di monitoraggio dei virus in tempo reale e firewall di rete e prestare attenzione all'aggiornamento delle patch di sicurezza fornite dal fornitore del sistema operativo.
+Cerca di non accedere a questo sito web in luoghi pubblici (ad esempio, gli internet café), ecc.
+Cercate di usare password distinte per diverse occasioni.
+Ricordate la password e tenetela al sicuro se viene registrata.
+Le password non devono essere date ad altri, compresi i propri amici e familiari.
+Protezione da occhi indiscreti di persone sospette a destra e a sinistra quando si fa il login o si inseriscono le password per i pagamenti online.
+Non usare numeri che possono essere facilmente decifrati, come la tua carta d'identità, la data di nascita, il numero di telefono, il numero di porta, il numero di strada, numeri ripetuti o consecutivi, ecc. Si raccomanda di scegliere una password che non sia facilmente indovinabile dagli altri ma che sia anche facile da ricordare.
+Cambia la tua password immediatamente quando scopri un rischio di compromissione; cambia la tua password di tanto in tanto.
+8. Di cosa devono essere consapevoli gli utenti quando si registrano?
+Una volta che hai inviato il tuo account, non può essere cambiato. Scegli un account facile da ricordare e con un alto livello di sicurezza e tienilo al sicuro.
+Il Centro Lotteria richiede che i biglietti siano venduti con un sistema di nome reale. Per assicurarti di vincere la lotteria, assicurati di registrarti e poi di legare la tua carta bancaria, il tuo vero nome e la tua password di prelievo nella pagina "Ricarica" del "Centro utenti".
+Problemi di ricarica e ritiro
+1. È sicuro usare l'Internet Banking?
+Gli utenti selezionano qualsiasi canale di pagamento con carta bancaria quando si ricaricano su questo sito ed entrano immediatamente nel gateway della banca, tutte le informazioni della carta bancaria sono compilate sulla pagina criptata del gateway della banca, tutto il processo di presentazione delle informazioni è criptato usando l'SSL internazionale o SET e il certificato digitale per la trasmissione, la sicurezza è completamente supportata e protetta dalla banca, ogni sistema di pagamento online della banca fornisce sicurezza per il pagamento online.
+2. Posso ricaricare se ho una carta di credito?
+(a) Una volta che l'utente ha una carta bancaria, ci sono diversi modi per ricaricare.
+L'Internet banking è stato aperto e una piattaforma di pagamento online di terzi è utilizzata per la ricarica, che è comoda e veloce.
+Se non hai l'internet banking, puoi usare il trasferimento bancario mobile, WeChat o Alipay per ricaricare.
+3. C'è un limite all'importo che posso ritirare?
+{nome}, supporta una ricarica singola minima da 1{unità} e un prelievo singolo minimo da 10{unità} senza limite massimo di prelievo.
+4. C'è un limite al numero di prelievi che posso fare?
+{name} supporta 3 prelievi senza commissioni al giorno per conto, senza limiti di importo per un singolo prelievo; una commissione del 5% sarà addebitata per prelievi superiori a 3 prelievi nello stesso giorno.
+5. Cosa succede se il ritiro non ha successo?
+Ci sono due tipi di prelievi non riusciti.
+Richiesta di ritiro non andata a buon fine.
+1. L'importo del prelievo è superiore all'importo effettivo del conto.
+2. La password di prelievo compilata al momento del prelievo dei fondi non è la stessa della password di prelievo impostata con le informazioni del tuo conto.
+3. Le informazioni della carta bancaria non sono conformi al formato prescritto.
+Richiesta di prelievo riuscita, ma il pagamento non raggiunge il conto designato.
+1. Il numero della carta di credito è compilato in modo errato e non corrisponde al nome dell'utente, la banca rimborsa l'ordine.
+Nel caso in cui si verifichi uno dei suddetti casi, si prega di contattare il servizio clienti online 24 ore su 24 o il servizio clienti QQ in modo tempestivo, in modo che possano assistervi nel completamento del vostro ritiro.
+6. Come posso controllare la mia storia di prelievo?
+Dopo aver effettuato il login, clicca su "Ritiro" sul lato destro della home page.
+Nella pagina dei prelievi, clicca su "Visualizza la cronologia dei prelievi" in alto a destra.
+7. Internet Banking/Mobile Banking trasferimento di fondi?
+Supportiamo anche più di 35 banche a livello nazionale per i pagamenti con bonifici via internet: vai alla pagina [Member Center] - [Top Up] e clicca su "Bank Card Deposit" per entrare nella pagina di deposito dell'azienda e visualizzare gli ultimi conti bancari di deposito supportati da "{name}", Selezionare la banca appropriata a cui trasferire i fondi.
+I trasferimenti interbancari impiegheranno da uno a tre minuti per arrivare, mentre i trasferimenti interbancari in tempo reale saranno basati sul tempo di funzionamento della banca.
+Per un deposito singolo superiore a 50.000, si prega di selezionare "Deposito con carta bancaria", importo di trasferimento singolo e cumulativo, 1% di bonus sul deposito, nessun limite, supporto 7X24 ore di arrivo immediato dei fondi.
+8. Internet Banking/Mobile Banking pagamento online?
+Dopo il login, clicca su "Ricarica" e seleziona "Pagamento online" per accedere al pagamento online di terzi.
+Seleziona l'importo del credito, invialo ed entra nella piattaforma di pagamento di terze parti, il credito sarà automaticamente accreditato sul tuo conto di gioco entro 3-5 minuti dopo il completamento del deposito.
+Massimo deposito singolo per il pagamento online: 50.000
+Carte di debito: China Minsheng Bank Head Office, Industrial and Commercial Bank of China, China Construction Bank, Industrial Bank of China, China Everbright Bank, Shenzhen Development Bank, China Post, Huaxia Bank, Shanghai Pudong Development Bank, Bank of China, Shanghai Bank, Bank of Communications, Guangdong Development Bank, Bank of Beijing, CITIC Bank, Ping An Bank of Shenzhen, Agricultural Bank of China, China Merchants Bank.
+Una volta confermato l'importo della vostra ricarica, vi sarà chiesto di confermare che l'ordine di pagamento è corretto e vi consigliamo di registrare il numero dell'ordine di pagamento prima di confermare la consegna e di aspettare pazientemente - la pagina di Internet Banking sarà caricata e i dati del vostro conto saranno criptati durante il trasferimento, vi preghiamo di aspettare pazientemente.
+Inserisci le informazioni del tuo conto bancario e il pagamento verrà elaborato dal sistema entro 5 minuti. L'importo verrà aggiunto immediatamente al tuo conto di membro della lotteria (a causa di motivi bancari, ci può essere qualche ritardo nel pagamento da parte di terzi, se l'importo non viene raggiunto entro 5-30 minuti, si prega di contattare il servizio clienti online e fornire le informazioni appropriate per l'elaborazione).
+9. WeChat e Alipay sweep code payment?
+{nome}, aggregando la tecnologia di scenario di pagamento online più mainstream e avanzato, sostenendo il pagamento diretto, il pagamento del codice, il pagamento di trasferimento di WeChat, Alipay, portafoglio QQ, hai solo bisogno di accedere al tuo account membro, fare clic su [top up], selezionare i canali di pagamento corrispondenti e metodi, completare il pagamento può essere; attraverso WeChat, Alipay, trasferimento di pagamento top up, un singolo importo di 100 {unit} o più Se si incontrano problemi o dubbi durante il processo di pagamento della ricarica, si prega di contattare il nostro servizio clienti online 24 ore su 24 o il servizio clienti QQ per assistenza immediata per completare la ricarica del pagamento.
+10. Come posso recuperare il mio premio dopo aver vinto?
+Tutti i premi sono automaticamente riscattati dal sistema del sito web e rimborsati sul conto membro dell'utente.
+11. A cosa devo fare attenzione quando ritiro i fondi?
+Confermare la correttezza delle coordinate bancarie presentate al momento del ritiro.
+Al fine di evitare che un piccolo numero di utenti utilizzi le carte di credito per il contante e il riciclaggio di denaro e per proteggere la sicurezza dei fondi dei normali utenti, questo sito fa le seguenti regole per i prelievi.
+1. Gli utenti devono raggiungere una certa quantità di codici per poter elaborare correttamente i prelievi.
+2. I ritiri che sono ritenuti insoliti sono soggetti a revisione.
+12. C'è una tassa per il ritiro dei fondi?
+Il ritiro è possibile solo quando le condizioni di ritiro sono soddisfatte.
+Non c'è limite al numero di prelievi e la tassa è fissata secondo il sito web.
+Tutte le spese bancarie sostenute per il ritiro dei fondi saranno sostenute dal sito web per lei.
+13. Come posso ritirare i miei soldi?
+Dopo aver effettuato il login, clicca su "Prelievo" sul lato destro della home page per entrare nella pagina di prelievo, inserisci l'importo del prelievo e la password di prelievo e conferma.
+Dopo che la vostra richiesta di prelievo ha avuto successo ed è stata verificata, sarete prelevati tramite bonifico bancario in 1-3 minuti in tempo reale. Tutte le banche di tutte le dimensioni sono supportate
+Per proteggere il vostro denaro, l'azienda fornisce un servizio 7X24 one-to-one.
+Il tuo browser non supporta il tag audio
+Avviso di ritiro dell'ordine
+Il record è chiuso e non può essere annullato
+Messaggi push
+Vedi
+Tu hai le informazioni!
+Prendi un pacchetto rosso
+Non si è registrato! Registrato?
+Nessun accesso all'account di prova
+Caricamento
+Nessun pacchetto rosso al momento
+Come giocare
+Annuncio
+Trend
+Periodo precedente
+Trend
+Regole
+Scommesse
+Sorteggio dei premi in corso
+Casa
+Ultima pagina
+Salta a
+Pagina
+Lista
+Dettagli
+Tempo
+Fonte
+Precedente
+Prossimo
+Nessun annuncio
+Notizie
+Tecniche
+Annuncio
+Impostazioni
+Guida
+Ultimi risultati
+Lotterie
+Tempo
+Numero di periodi (al giorno)
+Frequenza del premio
+Dettagli
+Data
+Verifica dei numeri
+Numero di telefono cellulare
+Password?
+Registrazione
+Accesso
+Funzionamento di APP
+Numero di cellulare, verificare prima il conto
+Per favore, inserisci SMS
+Si prega di inserire numeri semplici
+Invia
+Prendi
+Il codice è stato inviato al tuo numero di cellulare, per favore controllalo
+Il numero di conto non può essere vuoto
+La password non può essere vuota
+Verifica mobile riuscita
+Ora saltando per voi
+Pacchetti rossi
+Importo della ricarica
+Scommesse valide
+Numero di estrazioni
+Acqua che scorre
+Regole per l'estrazione dei premi
+Sopra {num}
+{num} per l'importo speso
+Nessuna spesa richiesta
+Importo totale
+Numero di
+Tempo
+Tipo
+Importo
+Distanza dall'inizio del pacchetto rosso
+Fino alla fine del pacchetto bonus
+Chiuso
+Non iniziato
+La fine!
+Trend
+Numero di volte
+Omissioni
+Omissioni massime
+Uscita massima continua
+Omissioni attuali
+Non disponibile
+Analisi
+Statistiche a due lati
+Tempi di palla
+Promemoria di apertura continua
+Visualizza analisi
+Distribuzione delle dimensioni
+Numero di numeri
+Tendenza della posizione
+Descrizione
+1 Pari e dispari: la divisione per 2 con un resto di 1 è dispari e contiene 1, 3, 5, 7 e 9, e la divisione per 2 con un resto di 0 è pari e contiene 2, 4, 6, 8 e 10.
+2 Dimensione: 6, 7, 8, 9 e 10 sono numeri grandi e 1, 2, 3, 4 e 5 sono numeri piccoli;
+3 012 Strade: 0 è un numero a 0 con 3, 6 e 9, 1 è un numero a 1 con 1, 4, 7 e 10, e 2 è un numero a 2 con 2, 5 e 8;
+4. Se il valore del numero del premio è maggiore di quello del periodo precedente, significa che la caratteristica del numero del premio è in aumento; se è uguale a quello del periodo precedente, significa che la caratteristica del numero del premio è piatta; se il valore del numero del premio è minore di quello del periodo precedente, significa che la caratteristica del numero del premio è in diminuzione;
+5 divisori: usa i divisori ogni cinque numeri per rendere più chiara la navigazione orizzontale;
+6 Numero totale di occorrenze: il numero effettivo di occorrenze nel periodo statistico;
+7 Mancante: il numero di periodi tra l'apertura del periodo precedente e il periodo corrente;
+8 Media delle miss: la media delle miss in un periodo statistico. (Formula: Mancanza media = (numero di periodi contati - numero di occorrenze) / numero di occorrenze);
+9 Perdita massima: il valore massimo del periodo statistico;
+10 Current Missing: il numero di periodi tra l'ultimo periodo e il periodo corrente;
+11 Striscia massima: Il numero massimo di aperture consecutive in un periodo statistico;
+Numero totale di volte
+Storia del premio
+{num} volte di più
+Classifica
+Selezione delle classifiche
+Vagliatura di perline stradali
+Continuo
+Numero di occorrenze
+Cumulativo oggi
+Ultimo
+Oggi
+Ieri
+Questa settimana
+La settimana scorsa
+Questo mese
+Il mese scorso
+L'altro ieri
+Ultimi 30 numeri
+Ultimi 60 numeri
+Ultimi 90 numeri
+Modello integrato
+Modalità di selezione singola
+Modello a due lati
+Mostra il numero
+Dimensione del display
+Mostra singolo e doppio
+Pesce, gamberi e granchi
+Tipo di statistica
+Statistiche
+Distribuzione dei numeri
+Punti totali
+Manutenzione del sistema in corso
+Suggerimenti per il sistema
+Il tuo codice d'invito predefinito è stato preso da qualcun altro, per favore creane uno nuovo ora!
+Nome reale
+Numero di conto
+Stato
+Conti bancari
+Normale
+anormale
+Eccezioni
+Numero di cellulare/numero di conto
+Nome
+Password
+Password secondaria
+Due password che non corrispondono
+Due password incoerenti
+Controllare l'accordo di apertura del conto
+Minimo sei cifre
+Fino a {num} cifre
+SMS
+Numeri di cellulare SMS incoerenti
+Numero corretto
+Successo
+Gioca gratis
+Numero di conto
+Numeri e lettere
+Numeri e lettere
+Numero di conto tra {min} e {max} cifre
+Password tra {min} e {max} cifre
+Numero di carta di credito
+Nome reale
+Alipay
+Numero di cellulare o e-mail!
+Banca di apertura del conto
+Si prega di inserire i caratteri
+Cifre
+Il nome non può essere vuoto
+Paypal non può essere vuoto
+Il mio account
+Ripartizione
+Dichiarazioni personali
+Informazioni
+Cambiare la password
+Suggerimenti caldi
+Registrato, cambio di account?
+Nessun permesso
+Numero di conto bancario
+Conto Paypal
+Conto WeChat
+Valuta digitale
+Nuove informazioni
+Carica il codice della ricevuta
+Il codice di ricezione è stato inviato
+Aggiungi Paypal
+Lega la tua carta di credito per la verifica del nome reale
+Nessuna carta bancaria legata, nessun prelievo, crea un conto bancario!
+Aggiungi
+Unbundling
+Caro utente, per proteggere la sicurezza dei tuoi fondi, per favore lega il tuo vero nome e imposta una password di prelievo. Se il suo nome non coincide con quello del suo conto, non potrà ritirare i suoi fondi.
+Aggiungere la banca
+Nome della banca
+Nome del conto aperto
+Numero di carta
+Nome
+Banca di apertura del conto
+Banca di apertura del conto
+Numero di conto bancario
+Il numero della carta non può essere vuoto
+Inserisci il numero di carta corretto
+Il nome non può essere vuoto
+La banca di apertura del conto non può essere vuota
+Suggerimenti per il funzionamento
+Unbonded numero di telefono cellulare, contattare il servizio per unbond!
+Servizi
+Aggiunto con successo
+Aggiungere il numero di conto bancario
+Creare un conto bancario personale
+Canali di esborso veloci
+Nuovo
+Nome del conto
+Numero di carta
+Nome
+Tipo
+Nessun nome reale
+Si prega di andare su
+Nome reale
+Legato a una grande banca e deve essere cambiato, contatta il servizio.
+Per disaggregare si prega di contattare il servizio
+Unbundling
+Rilegatura
+Tipo
+Indirizzo della moneta
+Autenticazione in nome reale!
+Soprannome
+Aggiungi
+Soprannome
+Numero di cellulare
+Registrato per {num} giorni
+Modifica del servizio di contatto
+Telefono cellulare vincolante
+Sconto per agenti
+Livelli di appartenenza
+Mailbox
+Mailbox
+Modifiche
+Email vincolante
+Saldo del conto
+Accedi
+Istruzioni per l'accesso
+Accedi
+Storia di accesso
+Modificare l'avatar
+Ogni giorno, {num1} punti esperienza saranno aggiunti all'iscrizione, per esempio {num2} punti esperienza il primo giorno, {num3} punti esperienza il secondo giorno, {num4} punti il terzo giorno, e così via, e se l'iscrizione viene interrotta, il calcolo ricomincerà da {num5} punti; il massimo dei punti esperienza giornalieri ottenuti dall'iscrizione è {num6} punti.
+Tempo di accesso
+Area di accesso
+Non disponibile
+Inserisci un soprannome!
+Stesso nickname prima e dopo il cambiamento
+Inserire fino a {num1} caratteri cinesi o {num2} lettere, numeri
+Modificato con successo
+Nessun avatar selezionato
+Modificato con successo
+Errore di formattazione
+Cambiare la password
+Cambiare la password di pagamento
+Cambio di nome reale
+Inserisci la vecchia password
+Vecchia password
+Nuova password
+{min}-{max} caratteri (numeri e lettere)
+Conferma la nuova password
+Numero di telefono cellulare vincolante
+Feedback
+{num} cifre
+Vecchio nome
+Nuovo nome
+Vecchia password
+Password da {min} a {max} cifre
+La password è di {num} cifre
+Nuova password
+Due voci di password incoerenti
+Si prega di inserire {num} cifre
+Modificato con successo
+Modificato con successo, presentato
+Micro segnale
+Aggiungi
+Conto WeChat
+Il numero di conto è: WeChat, QQ o numero
+Non può essere vuoto
+Vai a pagare
+Apertura del conto Banca
+Beneficiario del pagamento
+Conto di ricezione
+Sedi di apertura del conto
+Indietro
+Nessuna API aperta, scegliere altro
+Scegliere una carta di credito
+Si prega di controllare prima di trasferire fondi per evitare depositi involontari.
+Quando si ricarica, l'importo della ricarica del canale è casuale 1 posto decimale
+Tempo di arrivo: il più presto possibile in secondi, di solito 3-5 minuti. Si prega di contattare il servizio se il pagamento non viene raggiunto in più di 30 minuti.
+Il segreto della carta è una carta prepagata ricaricabile che è facile da acquistare su piattaforme di terze parti ed è semplice da usare, veloce e conveniente.
+3 semplici passi per risparmiare su
+Partner designato per l'acquisto del segreto della carta.
+Il segreto della carta corretta.
+I pagamenti segreti con carta possono essere effettuati in pochi secondi.
+Importo {min}-{max}
+Riproduzione
+Numero di carta di credito
+Incolla il segreto della carta
+Si prega di incollare il codice della carta
+Banche
+Importo della ricarica
+Informazioni sul depositante
+Nome reale, WeChat, nome utente Paypal
+Tempo
+Tipo
+Cardamy
+Successo nella riproduzione
+Informazioni sul depositante
+Pagamento riuscito, clicca indietro!
+Torna all'elenco degli aggiornamenti
+①Per una ricarica veloce del conto, alcuni canali di pagamento ammontano a un decimale casuale, non esitate a pagare {num}{unità}
+②È necessario annotare il numero dell'ordine quando si trasferiscono i fondi per una consegna veloce
+Tipo
+1.) APP aprire "Swipe"
+2.) Inserire l'importo della ricarica
+3.) Dopo aver effettuato con successo il pagamento, clicca su "Pagamento completato".
+2.) Vai sull'App e vai alla pagina di trasferimento / aggiungi amici e trasferisci fondi
+4.) Dopo l'avvenuto pagamento, registrare il numero d'ordine del commerciante
+3.) Inserire l'importo della ricarica
+4.) Clicca per aggiungere una nota
+5.) Compilare una nota, ad esempio il numero d'ordine
+6.) Dopo aver effettuato con successo il pagamento, clicca su "Pagamento completato".
+Pagato, ordine presentato
+Pagamento completato, visualizzare l'ordine
+Il tempo di arrivo abituale è di circa 5 minuti, con il più veloce entro 2 minuti.
+Informazioni sulla ricarica
+Confermare che il pagamento è completo prima di uscire!
+L'audit non sarà approvato senza il pagamento effettivo
+Ricarica
+Paga per codice
+Gli ordini sono generati
+Applicazione di successo
+Numero d'ordine
+Importo dell'ordine
+Confermare il pagamento
+Inviato
+Visualizza i registri
+Scannerizzare il codice QR per pagare
+Importo
+Numero di valute
+Renminbi
+Tassi di cambio
+Aiuto
+Creare un ordine
+Prossimo passo
+Codice di ricarica
+Codice QR di ricarica
+Indirizzo del depositante
+Dettagli dell'indirizzo del depositante
+Inviare un ordine
+Errore di copia
+Quantità di carica {min}{unità}-{max}{unità}
+L'indirizzo non può essere vuoto
+Limite singolo: minimo {min}{unità}, massimo {max}{unità}.
+Limite giornaliero: fino a {money}{unità}.
+Numero di prelievi: fino a {num} al giorno
+Senza tasse {num} volte
+Tempo di arrivo: Il tempo di arrivo abituale è entro 10 minuti, il più veloce è entro 1 minuto.
+Orario di ritiro: dalle 09:00 alle 03:00 del giorno successivo; le richieste di ritiro dopo le 15:00 sono processate uniformemente con priorità dopo le 09:00.
+Precauzioni di sicurezza: le carte di prelievo appena legate devono essere legate per più di 1 ora prima di poter essere prelevate correttamente.
+Tempo di arrivo: Il tempo di arrivo abituale è di circa 5 minuti, il più veloce è entro 2 minuti.
+Tempo di arrivo: Il tempo di arrivo abituale è entro 5 minuti, il più veloce è entro 2 minuti.
+Rilegatura
+Non legato a paypal, non può ritirare contanti, crea un conto paypal!
+Importo
+Conti
+Rilegatura
+Importo
+Importo
+Tassa di movimentazione
+Codice del denaro
+Codice del denaro
+Cari utenti, la spesa attuale è {money1}{unit}, che non è sufficiente per prelevare denaro, quindi scusate l'inconveniente! (Il prelievo richiede anche una puntata di {money2}{unit})
+Suggerimenti
+Si prega di notare che il sistema di prelievo è in fase di manutenzione ordinaria e le richieste di prelievo tra {inizio} e {fine} saranno sospese.
+Invia
+Applicazione di successo
+Visualizza i registri
+Nessuna password di fondi impostata, impostata!
+Impostare una password per i fondi
+Rilegatura
+Banche
+Indirizzo
+Numero
+Importo
+Numero di valute
+Prelevare contanti ora
+Nessuna valuta digitale legata, nessun prelievo, indirizzo di valuta digitale legato!
+Numero
+Legare WeChat
+Nessun vincolo WeChat, nessun prelievo, crea un esclusivo conto WeChat personale!
+Trasferimento
+Trasferimento a
+Importo di conversione
+Importo
+Conferma
+Conversione di credito di successo
+Piattaforme di gioco
+Scommesse
+Bonus
+Registrazioni di conversione
+Ritorno totale del conto One-Click
+Successo totale della famiglia con un solo clic
+Data di inizio
+Si prega di selezionare il tempo della richiesta
+Cerca
+Mostrare
+Da disegnare
+Non aperto
+Nessun premio vinto
+Traccia i rimborsi
+Fogli di scommesse sommarie
+Ritirato
+Fate le vostre scommesse
+Importo della scommessa
+Importo vincente
+Cancellazione di ordini
+Non operabile
+Condividere il successo
+Condividi Fallimento
+Ordini cancellati?
+Operazione di successo
+Orari di negoziazione
+Tipo di transazione
+Descrizione della transazione
+Entrate e uscite
+Notizie sui membri
+Annuncio del sistema
+Mittente
+Data
+Messaggi di sistema
+Numero di conto: 8-14 caratteri, alfabetici e numerici
+Nome reale (richiesto)
+Nome reale (opzionale)
+Numero ID (obbligatorio)
+Numero ID (opzionale)
+Numero di cellulare (richiesto)
+Numero di cellulare (opzionale)
+Numero di cellulare
+Verifica SMS
+WeChat (richiesto)
+WeChat (opzionale)
+Email (richiesto)
+Email (opzionale)
+QQ (richiesto)
+QQ (opzionale)
+Codice d'invito
+(richiesto)
+(opzionale)
+Campi obbligatori
+Codice di verifica
+Reinvia
+Sono d'accordo che
+Accordo
+Accesso
+Registrazione
+6-14 caratteri, combinazione di lettere e numeri
+Conferma
+Handicap di intrattenimento di
+Leader
+La migliore app di scommesse mobile in rete, con la più ricca varietà di giochi, la migliore esperienza utente, nuove e veloci modalità di scommessa per passare liberamente, azienda stabile per godersi il gioco in qualsiasi momento! Ricchezza a portata di mano!
+Accesso
+Accedi
+Nessun accesso continuo
+Questo sito è legalmente autorizzato dalla European Malta Gaming Authority (MGA), dalla UK GC Regulatory Commission (Gambling Commission), dalla Philippine Government Gaming Commission (PAGCOR) e certificato dalla British Virgin Islands (BM). Assicurati di avere almeno 18 anni di età prima di registrarti e giocare.
+Questo sito web è il copyright di {name}
+Registrazione
+Annuncio
+Nome utente
+Accesso
+Registrazione
+Disconnettersi
+Uscita in corso
+Richiesta fallita
+Promozioni
+Scaricare
+Giochi da tavolo
+Con un ambiente di casinò realistico, attrezzature stabili di fascia alta e un supporto tecnico professionale, i giocatori saranno in grado di godersi l'esperienza di gioco come se fossero lì.
+Scaricare
+La migliore applicazione di scommesse mobile in rete, con la più ricca gamma di giochi, la migliore esperienza utente, nuove e veloci modalità di scommessa per passare liberamente, società stabile per godersi il gioco e il divertimento in qualsiasi momento! Ricchezza a portata di mano!
+Sette giochi
+Intrattenimento della lotteria
+Scaricare iOS
+Scaricare Android
+Intrattenimento reale
+Gioca ora
+Quando entri per la prima volta nel gioco, il sistema convertirà automaticamente l'importo del tuo portafoglio per te, vai al tuo portafoglio per i dettagli.
+Questa funzione non è disponibile!
+Una nuova finestra si aprirà per voi per un migliore gioco e intrattenimento
+Nome del gioco
+Super Jackpot
+Aspettando che tu lo prenda
+Feedback
+Data
+Voglio dare un feedback
+Nessun risultato
+Anteprima dell'immagine
+Non lavorato
+Manipolato
+Ignora
+Adottato
+Si prega di completare le informazioni se non l'avete ancora fatto.
+La password non può essere vuota
+Confermare che la password non è vuota
+Solo numeri
+Password impostata con successo
+Scusa! L'accesso è limitato nella tua zona!
+Il tuo IP
+Il codice del tuo dispositivo
+Caro cliente
+Ci scusiamo per l'inconveniente, ma se avete delle domande, contattate il nostro {nome}, grazie!
+Il leader nell'artigianato di intrattenimento
+Taratura di sicurezza
+Cambia tema
+Per la cronaca
+Le lotterie sono rischiose, quindi scommetti con cautela. Nessun biglietto della lotteria sarà venduto ai giovani sotto i 18 anni!
+I. Ammissione di accordi di servizio
+Gli utenti in età di acquisto legale che selezionano "Accetto" l'Accordo di apertura del conto {nome} durante il processo di registrazione sono ritenuti aver accettato completamente tutti i termini e le condizioni di questo Accordo. In ogni caso, utilizzando uno qualsiasi dei servizi di {name}, si ritiene che l'utente abbia pienamente accettato il presente Accordo di Servizio e che sia guidato e vincolato da questo Accordo di Servizio.
+II. Modifiche e aggiunte all'accordo di servizio
+Il {nome} si riserva il diritto di modificare i Termini di Servizio se necessario, e qualsiasi cambiamento dei Termini di Servizio sarà indicato in una pagina importante. Se l'utente non è d'accordo con le modifiche, può cancellare volontariamente il servizio in questione. Se continui a utilizzare il servizio, si riterrà che tu abbia accettato le modifiche ai Termini di servizio. Di tanto in tanto, {name} può offrire servizi aggiuntivi che possono essere soggetti a diversi termini e condizioni di servizio e dove non sono stati pubblicati termini e condizioni di servizio per un nuovo servizio, si applicheranno questi termini e qualsiasi altra questione non coperta nel presente documento sarà soggetta all'interpretazione finale di {name} Ltd.
+III. Definizioni rilevanti
+1. Utente: Un membro registrato che si è iscritto a {nome} ed è riconosciuto da {nome} online e ha diritto ai servizi di {nome}.
+2. Account della lotteria: l'account impostato dall'utente sul sito web {nome} in conformità con i requisiti di {nome}. Il conto della lotteria è utilizzato per conservare i contanti e le vincite degli acquisti effettuati dall'utente attraverso i vari canali di ricarica di {name}.
+IV. Ambito dei servizi di questo accordo
+L'ambito dei servizi previsti da questo accordo include: fornire una piattaforma per l'acquisto di biglietti della lotteria; fornire informazioni relative alla lotteria; fornire servizi di regolamento dei pagamenti prepagati online. I tipi di lotteria includono la lotteria ad alta frequenza e la lotteria a bassa frequenza, ecc.
+L'ambito dei servizi di questo accordo non include la fornitura di risorse come terminali informatici e le loro attrezzature accessorie, reti e comunicazioni ai membri registrati.
+V. Privacy e sicurezza dei dati degli utenti
+{nome} si impegna a mantenere la privacy dei tuoi dati di registrazione nella massima riservatezza.
+{name} fornisce la massima sicurezza per le informazioni di registrazione degli utenti. È anche importante che gli utenti mantengano le loro password utente, gli account personali e altre informazioni confidenziali per prevenire furti o manomissioni. Inoltre, ogni utente è l'unico responsabile di tutte le attività ed eventi all'interno del proprio account. Gli utenti devono contattare immediatamente {nome} se vengono a conoscenza di qualsiasi uso illegale del loro account o di qualsiasi violazione della sicurezza.
+Al fine di proteggere i diritti e gli interessi legittimi dell'utente e di evitare controversie al momento del ritiro dei premi a causa di discrepanze tra i dati di registrazione dell'utente e la situazione reale, si prega di assicurarsi che l'utente compili i propri dati personali secondo i principi di veridicità, completezza e precisione al momento della registrazione. Il {nome} non è responsabile del mancato riscatto del premio per colpa dell'utente.
+VI. Disclaimers
+{nome} non sarà ritenuto responsabile in caso di.
+1. Perdita dei dati dell'utente: qualsiasi perdita di dati personali a causa dell'utente che informa altri della password o condivide l'account registrato con altri, o a causa della negligenza dell'utente, e tutte le controversie che ne derivano. Qualunque sia la ragione per l'uso non autorizzato dei dati dell'utente, la modifica, la password dell'utente, l'account personale o le informazioni di registrazione è la manomissione non autorizzata, il furto e tutte le conseguenze.
+2. Forza maggiore e circostanze impreviste si verificano: Forza maggiore e circostanze impreviste includono: disastri naturali, azioni del governo, scioperi, guerre, ecc; attacchi di hacker, intrusioni o attacchi di virus informatici, controlli del governo, ragioni delle istituzioni di emissione e vendita della lotteria, malfunzionamento delle macchine o dei servizi di emissione dei biglietti della lotteria, fallimenti della rete, cambiamenti nelle politiche nazionali, cambiamenti di leggi e regolamenti, ecc. Causato da forza maggiore e circostanze impreviste: chiusura temporanea. Questo accordo non può essere eseguito per cause di forza maggiore e circostanze impreviste.
+3. Perdite dovute a ragioni dell'utente o di terzi: se l'utente non è in grado di utilizzare il servizio di lotteria o altre perdite sono sostenute a causa di ragioni proprie dell'utente, o violazioni di leggi e regolamenti, così come ragioni di terzi.
+4. Danni derivanti dall'uso di link o download da parte dell'utente: eventuali controversie e conseguenze derivanti dall'uso di altri siti web collegati a {nome} o dall'uso di informazioni scaricate o ottenute attraverso {nome}, con conseguente divulgazione di informazioni dell'utente, danni al sistema informatico dell'utente, ecc.
+Superare il limite massimo di lunghezza
+Sotto il limite minimo di lunghezza
+La lunghezza della parte frazionaria supera il limite
+Limite massimo superato
+Sotto il limite minimo
+La prima cifra non può essere 0
+Deve essere digitale
+Deve essere un intero
+Eccezioni di servizio
+Sei già loggato in un altro account, ora aggiorna un nuovo account per te
+Al momento non sei loggato!
+Richiesta di eccezione
+Timeout della richiesta
+Conversioni
+¥
+￥
+Convalida
+SMS
+Inserisci i caratteri nella posizione {min}-{max}
+Si prega di inserire caratteri validi
+Carte bancarie
+Blu
+Verde
+Il captcha non può essere vuoto
+Inserisci il tipo di valuta
+Indirizzo per la raccolta di monete
+Trend
+Comprare biglietti della lotteria
+Prima palla {num}
+Primo posto
+Secondo posto
+Terzo posto
+Come creare rapidamente un conto in valuta
+Sicuro e veloce
+Spesa totale
+Importo dell'utente
+Aggiungi alla collezione
+Per saperne di più
+Disconnettersi
+Vantaggi della piattaforma
+Sicurezza dell'account
+Comprare una lotteria è facile
+Facile raccolta dei premi
+Ritiro veloce dei fondi
+Aiuto per la registrazione
+Aiuto per la ricarica
+Aiuto per il prelievo di contanti
+Metodi di pagamento
+Pagamento QQ
+Pagamento WeChat
+Pagamenti con carta di credito
+Pagamento Alipay
+Richieste di ricariche e prelievi
+Registrazione, richieste di sconto
+Giochi, informazioni sulla riscossione dei premi
+Azionisti affiliati, guadagnare commissioni sul lato
+Scaricare per iPhone
+Scaricare per Android
+Per la cronaca: le lotterie sono rischiose, le scommesse richiedono prudenza e i biglietti non sono venduti ai giovani sotto i 18 anni
+Sempre e ovunque
+Gioca quando vuoi
+Lunedì
+Martedì
+Mercoledì
+Giovedì
+Venerdì
+Sabato
+Domenica
+Ricarica rapida
+Servizio clienti QQ
+Importo della scommessa singola tra {min}~{max}
+Foglio note
+Attualmente stai usando un account completo, sei sicuro di voler passare alla modalità di prova?
+Conversioni
+Non disponibile
+Nota spingere
+Hai nuove informazioni vincenti!
+Premi Ctrl+D per aggiungere ai preferiti
+Importo del profitto
+Descrizione dell'agenzia
+Gestione delle adesioni
+Il mio codice QR
+Gestione delle promozioni
+Commissione dell'agenzia
+Dichiarazioni subordinate
+Dichiarazioni della squadra
+Dettagli delle scommesse sull'agente
+Dettagli commerciali dell'agente
+Il tuo conto è sia un conto giocatore che un conto agente; puoi sia scommettere che sviluppare giocatori subordinati per guadagnare commissioni di sconto.
+Come si guadagnano gli sconti? (Nessuna vincita o perdita, guadagna sconti se scommetti)
+Quando saranno liquidati gli sconti?
+Lo sconto disponibile è uguale alla differenza tra il tuo sconto e quello del subordinato. Se hai uno sconto di 5 su te stesso e 3 sul subordinato, potrai ottenere uno sconto del 2% dell'importo della scommessa del subordinato, per esempio, se il subordinato scommette 100 dollari, tu riceverai 2 dollari. Clicca sull'account del subordinato per vedere il tuo sconto e anche per impostare gli sconti per i tuoi subordinati.
+Come posso aprire un conto per un subordinato? (Aggiungere il codice d'invito, generare il link del codice d'invito)
+Clicca sul link di promozione, prima imposta uno sconto per il tuo subordinato, dopo aver impostato con successo un codice d'invito sarà generato, invia il codice d'invito al tuo subordinato per registrarsi, dopo la registrazione lui è il tuo subordinato, clicca sulla gestione membri, è possibile visualizzare il suo account registrato; se si imposta un account di tipo agente per il tuo subordinato, allora il tuo subordinato sarà in grado di continuare a sviluppare i subordinati.
+Non è mensile o giornaliero, è in contanti! Ogni volta che i tuoi subordinati piazzano una scommessa, il tuo conto riceverà una commissione di rimborso che può essere ritirata in qualsiasi momento e può essere visualizzata nel tuo conto membro.
+Caro {nome}, il tuo attuale livello di sconto è: {groupRebate}% ({groupName} gruppo bonus);
+1. Percentuale di commissione di sconto = il tuo livello di sconto - livello di sconto subordinato;
+2. (Commissione Guadagnabile = Importo totale scommesso da tutti i sub-agenti e membri X percentuale di commissione di sconto)
+3. Più basso è lo sconto, più basse sono le probabilità. Si raccomanda che lo sconto impostato per il subordinato non sia troppo basso; è possibile controllare i dettagli delle scommesse dell'agente subordinato top-up nell'estratto conto dell'agente, i dettagli delle scommesse e i dettagli delle transazioni; si raccomanda che il subordinato aperto sia anche il tipo di agente, non importa quanti livelli sono stati sviluppati, è possibile ottenere lo sconto. (Mark Six è a quota fissa e non partecipa al calcolo dello sconto. I giochi di terze parti non partecipano a questa forma di calcolo degli sconti).
+4. Se avete 10 membri offline, l'importo medio di deposito totale per persona è di 100.000 yuan, e l'importo medio di scommessa effettiva per persona raggiunge 500.000 yuan, se si imposta per disegnare il 2% di commissione dai vostri subordinati, la commissione si ottiene quel giorno è: (500.000 x 10 x 2%) = 100.000 yuan, quindi, il reddito mensile è facilmente oltre un milione non è più un sogno)
+Creare un nuovo membro
+Cerca per nome del membro
+Nome del membro
+Off-line
+Online
+Data dell'ultimo accesso
+Numero di giorni offline
+Punto di sconto
+Numero di persone
+Equilibrio di squadra
+Equilibrio personale
+Scommesse individuali
+Ricariche personali
+Prelievi personali
+Operazione
+Trasferimento
+Dichiarazioni
+Agenti subordinati
+I membri non hanno agenti subordinati
+Questo membro non ha più un agente subordinato
+Intervallo di date non corretto
+Categoria di appartenenza
+Iscrizione
+Agenti
+Team P&L
+Scommesse totali
+Pagamento totale
+Commissione totale
+Ricarica totale
+Prelievi totali
+Non hai ancora un codice promozionale, aggiungilo prima
+Creare un nuovo codice d'invito
+Stato del codice d'invito
+Attiva il codice d'invito
+Disattivare il codice d'invito
+Generare un codice d'invito
+Tipo di promozione
+Link promozionali
+Copiare il link
+Ultimo aggiornamento
+Codice d'invito
+Categorie di utenti
+Numero di utenti registrati
+Si prega di contattare il servizio clienti online
+Link
+Cambiare il codice d'invito
+Il codice di invito deve essere una lettera o un numero da {min} a {max}.
+Cancellato con successo
+Invitati
+Seleziona
+Seleziona il codice d'invito
+Selezionato
+Salva
+Dettagli della questione {num}
+Nome dell'agente
+Commissione
+Inserire il numero di conto dell'agente subordinato
+Subalterni immediati
+Tutti i subordinati
+Conto del membro
+Livello di agenzia
+Profitti e perdite
+Lotterie
+Terze parti
+Dichiarazioni dirette
+Orari delle scommesse
+Nome del gioco
+Sconti sulle scommesse
+Quote delle scommesse
+Premiato
+Conto Proxy
+Tutti i tipi
+Registrazioni di prelievo di contanti
+Record di ricarica
+echarts.period
+echarts.no.
+Modifica importo
+Sala chat
+Si prega di inserire il codice della camera
+Si prega di inserire sei cifre
+Attualmente non puoi accedere a questa chat room, per favore contatta l'amministratore!
+Non c'è abbastanza livello di utente per entrare nella chat
+Collezione
+Camere di chat mobile
+Aprite il vostro browser mobile e passate il dito per chattare
+Ritiro
+Si prega di inserire il numero della camera per la richiesta
+Non di più
+Nessuna stanza disponibile
+Scaricamento di software
+Scommesse online
+Elenco dei messaggi
+Gruppi di chat a più persone
+Notizie
+Servizio clienti
+Amministratori
+Nessuna notizia ancora
+Foto
+Espressioni
+Suono
+Pacchetti rossi
+Benvenuto
+Schermo chiaro
+Seguire gli ordini
+Programma di mentoring
+Sicuro di voler cancellare {nome}?
+Hai detto a {nome}
+Tutti
+Invia
+Ottieni più notizie storiche
+I risultati di oggi
+Congratulazioni, i tuoi guadagni di oggi!
+Scommesse sul gioco
+Gioco vincente
+Seguire con un solo clic
+Ricevi un pacchetto bonus
+Venite a prenderlo!
+Contenuto delle scommesse
+Risposta rapida
+Ritirato
+Vietare
+appiccicoso
+Visualizza il profilo dell'utente
+Ho capito
+Congratulazioni a {nome1} per aver vinto {num}{unità} scommettendo sul gioco {nome2}
+Promemoria
+Invia una foto
+Si può parlare quando si è promossi a un membro di alto livello
+Sei stato bandito, contatta il servizio clienti
+Divieto globale in corso
+Il livello di utente attuale è stato bannato, si prega di contattare il servizio clienti
+Divieto di accesso alla stanza in corso
+Attualmente non puoi accedere a questa chat room e sarai espulso, per favore contatta un amministratore!
+Per favore, accedi di nuovo!
+Cari utenti, benvenuti a "{nome}" per iniziare il vostro viaggio fortunato, si prega di rispettare le regole pertinenti della chat room, qualsiasi forma di pubblicità e l'invio di informazioni di contatto rilevanti è vietata, l'amministratore ha il diritto di ritirare i commenti o messaggi inappropriati e vietare l'account utente, se si incontrano problemi con la ricarica o prelievi, si prega di contattare il servizio clienti della piattaforma dove si trova. Grazie!
+Parli troppo spesso, caro
+Invia un messaggio gif
+Invio fallito
+Salve, auto-raccolta solo tramite app mobile!
+Sei stato bandito
+Distribuire pacchetti rossi
+Si prega di compilare l'importo del pacchetto rosso
+Si prega di compilare il numero di pacchetti rossi
+Numero di
+individuale
+Osservazioni
+Si prega di compilare la password della transazione
+Guarda i dettagli della collezione
+Dettagli pacchetto rosso
+Visualizza i dettagli del mio bonus
+Saldo accreditato e pronto per la spesa diretta
+Si prega di compilare l'importo corretto del pacchetto rosso
+L'ammontare del bonus deve essere maggiore o uguale a {money}{unit}
+L'importo del bonus deve essere inferiore o uguale a {money}{unit}
+Si prega di compilare il numero corretto di pacchetti rossi
+Il numero di pacchetti rossi deve essere maggiore o uguale a {num}
+Il numero di pacchetti rossi deve essere inferiore o uguale a {num}
+Inserisci la password corretta per la transazione
+Congratulazioni e grande fortuna!
+Inserisci la descrizione del bonus pack
+La lunghezza del messaggio di descrizione non deve superare {num}
+Equilibrio insufficiente
+Top Messaggio
+Annuncio
+Benvenuto {nome} nella stanza della chat
+Si prega di inserire il testo
+Nessun permesso
+Sei attualmente in chat privata con {nome}
+Soprannome dell'account
+La ricarica top di ieri
+Classifica dei profitti
+Classifica della Commissione
+Importo della commissione
+Orario di chiusura
+Gioco di scommesse
+Numero di scommesse
+Inserisci l'importo
+Inserisci l'importo della scommessa
+{nome}Manda {soldi}{unità}
+Tocca per raccogliere
+Raccolto
+Scaduto
+Vai a ricaricare
+Vai a Scommesse
+IP limitato
+Ricevere il livello di appartenenza non soddisfatto
+Per favore, fai prima il login!
+Solo una volta per ip
+Tasso di successo delle scommesse
+Invia un messaggio
+Area premiata
+Apertura del testo
+Schema della lotteria
+PK10 Live
+Bellezza in diretta
+Piano di commutazione
+Piano di acquisto
+Costi correnti
+Costi accumulati
+Profitto
+Perdite
+Da aprire
+Note utili
+C'è ancora tempo prima della scadenza delle scommesse
+Selezione della lotteria
+Numeri della lotteria
+Numero di persone attive
+Pop-up
+Grigio
+Vinci
+Persone
+Pacchetti rossi
+Vantaggi
+Classifica
+Caro utente, la tua scommessa attuale è {money1}{unit} e non hai raggiunto la condizione di ricarica, quindi scusa l'inconveniente! (Devi ancora scommettere su {money2}{unit}) Se hai qualche domanda, contatta il nostro servizio clienti online
+Saldo disponibile
+Ricarica diretta a mani libere
+Nessuna chat room impostata
+Amministratore di sistema
+Condivisione della chat room
+Mettete {money1}{unità}, vincete {money2}, e mostrate quanto segue
+In arrivo
+Sotto manutenzione
+Manutenzione temporanea
+Manutenzione a tempo perso
+Pagamenti di terze parti
+Selezionare la valuta
+Scegliere un pagamento da parte di terzi
+Carte di pagamento
+Aggiungi
+Informazioni sul conto
+Informazioni IFSC richieste
+Le informazioni sull'account non possono essere vuote
+Clicca per caricare
+Non richiesto
+Nome del conto
+Conto della piattaforma
+Selezione della piattaforma
+Deposito codice QR
+Aggiungere una carta di pagamento
+Scomponi la tua carta di pagamento
+Inserisci il nome del tuo account
+Inserisci il tuo numero di conto della piattaforma
+Inserisci il numero di conto della piattaforma corretto
+Il conto della piattaforma non può essere vuoto
+La selezione della piattaforma non può essere vuota
+Aggiungere la carta di pagamento con successo
+Assistente del drago lungo
+Liquidazione
+Importo vincente
+Il nome dell'account non può essere vuoto
+Carte di pagamento vincolanti
+Non sei ancora legato a una carta di pagamento, quindi per il momento non puoi prelevare fondi. Crea ora il tuo conto personale con carta di pagamento!
+Codice QR
+Caricato
+Non caricato
+Il Long Long Assistant è uno strumento di assistenza per tracciare i risultati delle lotterie "Big, Small, Single e Double" per giochi specifici delle lotterie Fast 3, Time, PK10 e Mark Six, e per piazzare scommesse veloci.
+Ogni periodo ha la stessa probabilità di apparire grande, piccolo, singolo o doppio, e se i risultati della lotteria sono gli stessi per 3 periodi consecutivi o più, è chiamato un "drago lungo" e viene solitamente moltiplicato per "tagliare il drago" o "seguire il drago "
+Cos'è un drago hacker?
+Se hai cinque "singoli" consecutivi, puoi scegliere di scommettere sui "doppi", uno schema di scommesse noto come "tagliare il drago".
+Cos'è Shun Long?
+Se hai 5 "singoli" consecutivi, puoi continuare a scommettere sui "singoli", uno schema di scommesse noto come "Shun Long".
+Cos'è un moltiplicatore?
+Una doppia scommessa è un modo di raddoppiare le tue scommesse per assicurarti di poter continuare a fare un profitto nel processo di "tagliare il drago" o "seguire il drago".
+Importo per scommessa
+Fino a {money}{unità}
+Successo nelle scommesse
+Scorrere verso il basso per aggiornare
+Rilasciare per rinfrescare
+Si prega di separare ogni numero con una virgola o un carattere | o uno spazio (i numeri inseriti saranno automaticamente ordinati e squalificati).
